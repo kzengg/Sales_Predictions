@@ -1,11 +1,10 @@
-#Choosing a Sales Prediction Machine Learning Model
-## Using Linear vs Decision Tree Model to help predict Sales
+Using Linear vs Decision Tree Model to help predict Sales
 
 ### Business problem:
 
 Help the retailer understand the properties of products and outlets that play crucial roles in predicting sales.
 
-##Data Observations
+### Data Observations
 Missing Data Values are replaced by mean of each item category
 ![image](https://user-images.githubusercontent.com/76888532/176805556-c84b8d07-e21f-4b0c-a135-4e88f504ba58.png)
 ![image](https://user-images.githubusercontent.com/76888532/176805570-986d4fa8-ca05-48bb-9582-86ee0499552b.png)
@@ -15,11 +14,11 @@ Missing Data Values are replaced by mean of each item category
 ![image](https://user-images.githubusercontent.com/76888532/176805709-0a3285ca-2f61-45fa-a491-5044771e8d4c.png)
 
 
-## Methods
+### Methods
 Linear Regression Model
 Decision Tree Model
 
-## Results
+### Results
 Regression Tree:
 Training Data
 R2: 0.9999996587482324
