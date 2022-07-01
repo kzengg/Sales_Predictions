@@ -25,23 +25,26 @@ Linear Regression Model
 Decision Tree Model
 
 ### Results
-Regression Tree:
+## Regression Tree:
+
 Training Data
+
 R2: 0.9999996587482324
 RMSE: 0.9999998293741016
 
 Testing Data
+
 R2: 0.1259003197028321
 RMSE: 0.3548243504930744
 
-Linear Regression:
+## Linear Regression:
+
 Training Data
+
 RMSE: 1140.3242079947659
 R^2: 0.5606153870287736 
  
 Testing Data
+
 RMSE: 1094.7569667716948
 R^2: 0.565602507279809
-
-
-
